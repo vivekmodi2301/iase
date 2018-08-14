@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+*
+{
+	/*font-family:"Century Gothic";*/
+	font-size:16px;
+	/*font-family: 'Jura', sans-serif;*/
+	font-family: 'Titillium Web', sans-serif;
+	/*font-family: 'Kelly Slab', cursive;*/
+}
+
+.logo-hover:hover
+{
+	background:#E84A00;
+	opacity:0.7;
+	transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+	border-radius:border:4px solid #006666;
+}
+
+.align_center
+{
+	text-align:center;
+}
+
+.table_style
+{
+	background:#DA251D;
+	height:50px;
+	color:#fff;
+	font-size:18px;
+	text-align:center;
+}
+
+.table_style2
+{
+	/*background:#DA251D;*/
+	height:50px;
+	color:#009BF9;
+	font-size:16px;
+}
+
+.table_style2 a
+{
+	color:#000;
+}
+
+.table_style3
+{
+	background:#ccc;
+	color:#009BF9;
+}
+
+.table_style4
+{
+	background:#FFC;
+	color:#009BF9;
+}
+
+.table_style3 a
+{
+	color:#fff;
+}
+
+.text_setting
+{
+	text-align:left;
+	padding-left:50px;
+	color:#009BF9;
+	font-size:16px;
+	
+}
+
+.text_heading
+{
+	text-align:center;
+	padding-left:50px;
+	color:#fff;
+}
+
+.hover-item {
+
+}
+
+.hover-item:hover {
+	background-color: #000;
+	color:#fff;
+}
